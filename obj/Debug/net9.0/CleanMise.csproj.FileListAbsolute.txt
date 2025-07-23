@@ -1,0 +1,14 @@
+C:\Users\f19033\Documents\Documentos Luisinho\VScode\C#\CleanMise\bin\Debug\net9.0\CleanMise.exe
+C:\Users\f19033\Documents\Documentos Luisinho\VScode\C#\CleanMise\bin\Debug\net9.0\CleanMise.deps.json
+C:\Users\f19033\Documents\Documentos Luisinho\VScode\C#\CleanMise\bin\Debug\net9.0\CleanMise.runtimeconfig.json
+C:\Users\f19033\Documents\Documentos Luisinho\VScode\C#\CleanMise\bin\Debug\net9.0\CleanMise.dll
+C:\Users\f19033\Documents\Documentos Luisinho\VScode\C#\CleanMise\bin\Debug\net9.0\CleanMise.pdb
+C:\Users\f19033\Documents\Documentos Luisinho\VScode\C#\CleanMise\obj\Debug\net9.0\CleanMise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f19033\Documents\Documentos Luisinho\VScode\C#\CleanMise\obj\Debug\net9.0\CleanMise.AssemblyInfoInputs.cache
+C:\Users\f19033\Documents\Documentos Luisinho\VScode\C#\CleanMise\obj\Debug\net9.0\CleanMise.AssemblyInfo.cs
+C:\Users\f19033\Documents\Documentos Luisinho\VScode\C#\CleanMise\obj\Debug\net9.0\CleanMise.csproj.CoreCompileInputs.cache
+C:\Users\f19033\Documents\Documentos Luisinho\VScode\C#\CleanMise\obj\Debug\net9.0\CleanMise.dll
+C:\Users\f19033\Documents\Documentos Luisinho\VScode\C#\CleanMise\obj\Debug\net9.0\refint\CleanMise.dll
+C:\Users\f19033\Documents\Documentos Luisinho\VScode\C#\CleanMise\obj\Debug\net9.0\CleanMise.pdb
+C:\Users\f19033\Documents\Documentos Luisinho\VScode\C#\CleanMise\obj\Debug\net9.0\CleanMise.genruntimeconfig.cache
+C:\Users\f19033\Documents\Documentos Luisinho\VScode\C#\CleanMise\obj\Debug\net9.0\ref\CleanMise.dll
