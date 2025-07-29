@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanMise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24b8d08a75ed41ce6db1efb9ab2ba34f65f4e677")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanMise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanMise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

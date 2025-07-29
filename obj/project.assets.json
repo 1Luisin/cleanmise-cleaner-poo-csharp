@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\f19033\\Documents\\Documentos Luisinho\\VScode\\C#\\CleanMise\\CleanMise.csproj",
+      "projectUniqueName": "C:\\Users\\f19033\\Documents\\Documentos Luisinho\\Projetos\\CleanMise\\CleanMise.csproj",
       "projectName": "CleanMise",
-      "projectPath": "C:\\Users\\f19033\\Documents\\Documentos Luisinho\\VScode\\C#\\CleanMise\\CleanMise.csproj",
+      "projectPath": "C:\\Users\\f19033\\Documents\\Documentos Luisinho\\Projetos\\CleanMise\\CleanMise.csproj",
       "packagesPath": "C:\\Users\\f19033\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\f19033\\Documents\\Documentos Luisinho\\VScode\\C#\\CleanMise\\obj\\",
+      "outputPath": "C:\\Users\\f19033\\Documents\\Documentos Luisinho\\Projetos\\CleanMise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\f19033\\AppData\\Roaming\\NuGet\\NuGet.Config"
